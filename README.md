@@ -3,7 +3,7 @@ The code base and previous convexity data of the thesis: Cultural evolution of c
 
 ## Replication
 
-To replicate results run on python 3.8.5:
+To replicate results on Ubuntu with python 3.8.5:
 
 ```
 # activate virtual environment
