@@ -1,0 +1,20 @@
+Python 3.8.5
+
+Standard lib:
+
+random 
+argparse
+os
+pickle
+copy
+
+
+Packages installed with pip3:
+
+numpy 1.18.5
+torch 1.7.0
+matplotlib 3.3.3
+scipy 1.5.3
+colour 0.1.5
+colour-science 0.3.15
+sklearn 0.0 
