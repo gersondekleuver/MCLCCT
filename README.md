@@ -2,6 +2,14 @@
 
 
 # Modelling cultural learning for convex color terms
+The model used in the paper uses populations
+of neural networks, termed agents. The model created existed of 50 generations,
+where in each generation 10 agents learned from the previous. Multiple different
+initial color spaces were generated as input for the initial generation of agents.
+The results of this paper show that convex color terms do emerge when using
+a highly structured color space.
+
+
 The code base and previous convexity data of the thesis: Cultural evolution of convex color terms and degeneracy.
 
 [Paper](https://dspace.uba.uva.nl/server/api/core/bitstreams/f8961ea6-e437-46ab-97ba-faca4d8a98fb/content)
